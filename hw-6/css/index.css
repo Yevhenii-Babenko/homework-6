@@ -1,0 +1,11 @@
+body{
+    --color-1: #4B5D68;
+    --color-2: #212353;
+    --color-3: #9C69E2;
+    --color-4: #F063B8;
+}
+
+.wrapper{
+    min-width: 1600px;
+    min-height: 4500px;
+}
